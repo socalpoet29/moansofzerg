@@ -1,3 +1,7 @@
+## Changelog
+
+- 10/29/24: Updated to Angular 18.2.9
+
 # SoundsOfZerg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
